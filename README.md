@@ -7,6 +7,9 @@
 
 🖤 COMMAND 🖤
 $ git clone https://github.com/Black-Heart01/BLACK-HEART
+
 $ cd BLACK-HEART
+
 $ git pull
-$ python Back-Heart01-Enc.py
+
+$ python Balck-Heart01-Enc.py
